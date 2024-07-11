@@ -55,7 +55,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img:/img/1.jpg
+index_img: /img/1.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -762,7 +762,7 @@ subtitle:
   typed_option:
   # source 調用第三方服務
   # source: false 關閉調用
-  source: 1 NOOB
+    source: 1 NOOB
   # source: 2  調用一句網（簡體） https://yijuzhan.com/
   # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
   # subtitle 會先顯示 source , 再顯示 sub 的內容
