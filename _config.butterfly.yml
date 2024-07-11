@@ -21,7 +21,7 @@ nav:
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: darker#/ pale night / light / ocean / false
+highlight_theme: darker #/ pale night / light / ocean / false
 highlight_height_limit: false # unit: px
 code_word_wrap: false
 
